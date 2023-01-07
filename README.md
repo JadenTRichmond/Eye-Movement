@@ -6,3 +6,4 @@ Download all files, put in one folder, run index.html on a browser, refresh page
 I would like to add something that makes the eyes do a roll animation when on a click.
 ## License Info
 Code written by Jaden Richmond using starter code from the MITxPRO full stack development bootcamp course.
+ 
